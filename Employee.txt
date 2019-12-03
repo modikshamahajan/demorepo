@@ -2,3 +2,4 @@ Emp id =101;
 Emp name= Modiksha;
 Emp salary=30000;
 Emp location=Burhanpur;
+Emp Dob=23-8-2019;
