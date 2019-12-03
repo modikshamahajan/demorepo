@@ -1,0 +1,4 @@
+Emp id =101;
+Emp name= Modiksha;
+Emp salary=30000;
+Emp location=Burhanpur;
