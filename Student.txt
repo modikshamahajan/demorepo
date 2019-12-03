@@ -1,0 +1,4 @@
+std id =101;
+std name= Modiksha;
+std salary=30000;
+std location=Burhanpur;

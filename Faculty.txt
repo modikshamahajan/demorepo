@@ -1,0 +1,4 @@
+Fac id =101;
+Fac name= Modiksha;
+Fac salary=30000;
+Fac location=Burhanpur;
